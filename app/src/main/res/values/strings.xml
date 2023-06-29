@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Botones</string>
+    <string name="turn_off_flight_mode">Turn off flight mode</string>
+    <string name="updating_profile">Updating profile</string>
+    <string name="picture_saved_to_gallery">Picture saved to gallery</string>
+    <string name="unlocked_level_5">Unlocked level 5</string>
+    <string name="level_4_completed">Level 4 completed</string>
+    <string name="music_paused">Music paused</string>
+    <string name="logo_de_android">Logo de Android</string>
 </resources>
